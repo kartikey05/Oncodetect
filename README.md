@@ -13,7 +13,7 @@ Oncodetect is a predictive modeling project aimed at facilitating early detectio
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your_username/oncodetect.git
+   git clone https://github.com/kartikey05/oncodetect.git
    cd oncodetect
    ```
 
